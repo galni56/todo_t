@@ -1,4 +1,5 @@
 
 var model = {
-    user: "Usman"
+    user: "Usman",
+    items: [{ action: "Buy Flowers", done: false }
 };
