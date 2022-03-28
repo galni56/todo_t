@@ -1,5 +1,6 @@
 
 var model = {
     user: "Usman",
-    items: [{ action: "Buy Flowers", done: false }
+    items: [{ action: "Buy Flowers", done: false },
+    { action: "Get Shoes", done: false }]
 };
